@@ -1,12 +1,12 @@
 // =======Options START=======
 var  authConfig  =  {
-  siteName : "Chillx",  // site name
+  siteName : "Sayyed files",  // site name
   version : "1.1.2" ,  // program version
   theme: "acrou",
   // It is strongly recommended to use your own client_id and client_secret
-  client_id: "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com", // Client id from Google Cloud Console
-    client_secret: "u5a1CSY5pNjdD2tGTU93TTnI",
-    refresh_token: "", // Authorize token
+  client_id: "202264815644.apps.googleusercontent.com", // Client id from Google Cloud Console
+    client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
+    refresh_token: "1//05_BaFuZzn_hpCgYIARAAGAUSNwF-L9IrauvX8eUUeyJxs15UMEsn9sOnHszVY8NnpKsiZ3nRRubXoGvSHmT7rtzhph4kBjVKdpY", // Authorize token
   /*
    * Set multiple drives to be displayed; add multiple by format
    * [id]: Can be team disk id, subfolder id, or "root" (representing the root directory of personal disk);
@@ -22,20 +22,20 @@ var  authConfig  =  {
    */
   roots: [
     {
-      id: "",
-      name: "TeamDrive",
+      id: "0ABRDHCinKEYGUk9PVA",
+      name: "Anime.1 [Archived]",
       pass: "",
     },
     {
-      id: "root",
-      name: "PrivateDrive",
+      id: "0APGjQWQREM_MUk9PVA",
+      name: "leech",
       user: "",
       pass: "",
       protect_file_link: true,
     },
     {
-      id: "",
-      name: "folder1",
+      id: "0AO1ndw2RlVUMUk9PVA",
+      name: "Juuzou.1",
       pass: "",
     },
   ],
